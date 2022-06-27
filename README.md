@@ -1,12 +1,12 @@
-<code>🎓 Student: KPI / IM-11</code>
-<code>⚪ Community: Metarhia</code>
-<code>👷 Speciality: Software engineer / Backend</code><br>
+<code>🎓 Student: KPI / IP-94</code>
+<code>🏢 Company: OSF</code>
+<code>👷 Speciality: Junior Backend Developer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript, C++</code>
-<code>📦 Tech stack: node.js</code>
+<code>🧑‍💻 Languages: JavaScript (work), Nim (hobby)</code>
+<code>📦 Tech stack: node.js, Salesforce Commerce Cloud</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>💬 telegram: [@d_ment](https://telegram.me/d_ment)</code>
+<code>📫 [rocket111185@gmail.com](mailto:rocket111185@gmail.com)</code>
