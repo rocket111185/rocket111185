@@ -1,4 +1,4 @@
-<code>🎓 Student: KPI / IP-94</code>
+<code>🎓 Student: KPI / IM-31mn</code>
 <code>🏢 Company: OSF</code>
 <code>👷 Speciality: Junior Backend Developer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
