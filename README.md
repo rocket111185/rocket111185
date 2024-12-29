@@ -1,6 +1,6 @@
 <code>🎓 Student: KPI / IM-31mn</code>
 <code>🏢 Company: OSF</code>
-<code>👷 Speciality: Junior Backend Developer</code><br>
+<code>👷 Speciality: Middle Backend Developer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
